@@ -1,0 +1,26 @@
+{
+  "name": "ur-shortener",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colleowino/url-shortener.git"
+  },
+  "description": "url-shortener microservice",
+  "bugs": {
+    "url": "https://github.com/colleowino/url-shortener/issues"
+  },
+  "homepage": "https://github.com/colleowino/url-shortener#readme",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "author": "colleowino",
+  "license": "ISC"
+}
