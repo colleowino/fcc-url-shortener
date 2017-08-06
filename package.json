@@ -1,5 +1,5 @@
 {
-  "name": "ur-shortener",
+  "name": "url-shortener",
   "dependencies": {
     "express": "^4.14.0"
   },
